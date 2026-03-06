@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Afraid Of The Dark",
+  "base_artist": "Motionless In White",
+  "createdAt": "2026-03-06T15:09:43.795826Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Afraid of the Dark",
+      "artist": "Ejecta",
+      "has_synced": false,
+      "path": "select/01_Afraid_of_the_Dark_Ejecta.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Afraid of the Dark",
+      "artist": "Unions",
+      "has_synced": true,
+      "path": "select/02_Afraid_of_the_Dark_Unions.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Afraid Of The Dark",
+      "artist": "Lilo",
+      "has_synced": true,
+      "path": "select/03_Afraid_Of_The_Dark_Lilo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Afraid of the Dark",
+      "artist": "TALK",
+      "has_synced": true,
+      "path": "select/04_Afraid_of_the_Dark_TALK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Afraid of the Dark",
+      "artist": "Young Ejecta",
+      "has_synced": false,
+      "path": "select/05_Afraid_of_the_Dark_Young_Ejecta.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Afraid of the Dark",
+      "artist": "Twiztid",
+      "has_synced": false,
+      "path": "select/06_Afraid_of_the_Dark_Twiztid.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Not Afraid of the Dark",
+      "artist": "Carrollton",
+      "has_synced": false,
+      "path": "select/07_Not_Afraid_of_the_Dark_Carrollton.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Afraid Of The Dark",
+      "artist": "Melanie",
+      "has_synced": true,
+      "path": "select/08_Afraid_Of_The_Dark_Melanie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Afraid of the Dark",
+      "artist": "Zauntee",
+      "has_synced": true,
+      "path": "select/09_Afraid_of_the_Dark_Zauntee.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Afraid of the Dark",
+      "artist": "Lindi Ortega",
+      "has_synced": false,
+      "path": "select/10_Afraid_of_the_Dark_Lindi_Ortega.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Afraid Of The Dark",
+      "artist": "Chef'Special",
+      "has_synced": true,
+      "path": "select/11_Afraid_Of_The_Dark_Chef'Special.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Afraid of the dark",
+      "artist": "Young Ejecta",
+      "has_synced": true,
+      "path": "select/12_Afraid_of_the_dark_Young_Ejecta.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Afraid of the Dark",
+      "artist": "Awkward Marina",
+      "has_synced": false,
+      "path": "select/13_Afraid_of_the_Dark_Awkward_Marina.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Afraid Of The Dark",
+      "artist": "Chef'special",
+      "has_synced": false,
+      "path": "select/14_Afraid_Of_The_Dark_Chef'special.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Afraid of the Dark",
+      "artist": "MKTO",
+      "has_synced": true,
+      "path": "select/15_Afraid_of_the_Dark_MKTO.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Be Afraid of the Dark",
+      "artist": "Sonics",
+      "has_synced": true,
+      "path": "select/16_Don't_Be_Afraid_of_the_Dark_Sonics.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Jeannie's Afraid of the Dark",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/17_Jeannie's_Afraid_of_the_Dark_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Jeannie’s Afraid of the Dark",
+      "artist": "Porter Wagoner",
+      "has_synced": false,
+      "path": "select/18_Jeannie’s_Afraid_of_the_Dark_Porter_Wagoner.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Afraid Of The Dark",
+      "artist": "Motionless In White",
+      "has_synced": false,
+      "path": "select/pl_01_Afraid_Of_The_Dark_Motionless_In_White.txt"
+    }
+  ]
+}
